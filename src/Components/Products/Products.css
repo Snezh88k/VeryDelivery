@@ -1,0 +1,12 @@
+.products_block {
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  width: 100%;
+  display: flex;
+}
+
+.category_name {
+  margin: 15px 0 15px 15px;
+  font-size: 30px;
+  font-weight: 700;
+}

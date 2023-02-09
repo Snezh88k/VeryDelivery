@@ -1,0 +1,13 @@
+.name-category {
+  font-weight: 600;
+  font-size: 20px;
+  margin-bottom: 20px;
+}
+
+.img_fone {
+  width: 44px;
+  height: 44px;
+  background-image: url(../../img/eda.png);
+  background-size: 44px;
+  background-repeat: no-repeat;
+}
